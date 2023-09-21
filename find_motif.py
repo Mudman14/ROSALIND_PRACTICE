@@ -1,6 +1,4 @@
-
-
-t = 'ATAT' #patern string
+t = '' #patern string
 s = '' #parent string
 import re 
 def find_motif(t, s):
